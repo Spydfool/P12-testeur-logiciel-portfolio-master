@@ -1,20 +1,20 @@
 [
-    {
-        "image": "Eco-bliss-bath.png",
-        "title": "Eco Bliss Bath",
-        "text": "QA Engineer: automatisation de tests (API, smoke, XSS), rédaction de scénarios fonctionnels Cypress et bilan de campagne. Projet de e-commerce de produits de beauté écoresponsables.",
-        "link": "https://github.com/Spydfool/Eco-Bliss-Bath-V2-Florent-Le-Bihan"
-    },
-    {
-        "image": "Sophie-bluel.png",
-        "title": "Sophie Bluel",
-        "text": "Développeur front-end en renfort pour l'agence ArchiWebos : adaptation du design Figma, création de la page de présentation des travaux, développement de la page de connexion administrateur et implémentation d'une modal d'upload de médias.",
-        "link": "https://github.com/Spydfool/Portfolio-architecte-sophie-bluel-master-Florent"
-    },
-    {
-        "image": "image3.png",
-        "title": "Kasa",
-        "text": "Développeur front-end (freelance) : migration d'une application legacy vers une stack React + Node, implémentation des composants React (Gallery, Collapse), gestion des routes React Router et respect des maquettes Figma responsives. Réalisation de tests unitaires pour composants avec et sans état (objectif ≥80% coverage).",
-        "link": "https://github.com/Spydfool/TesteurLogiciel_appli_location_immobiliere_React-main-FlorentLeBihan"
-    }
+  {
+    "image": "Eco-bliss-bath.png",
+    "title": "Eco Bliss Bath",
+    "text": "QA Engineer: automatisation de tests (API, smoke, XSS), rédaction de scénarios fonctionnels Cypress et bilan de campagne. Projet de e-commerce de produits de beauté écoresponsables.",
+    "link": "https://github.com/Spydfool/Eco-Bliss-Bath-V2-Florent-Le-Bihan"
+  },
+  {
+    "image": "Sophie-bluel.png",
+    "title": "Sophie Bluel",
+    "text": "Développeur front-end en renfort pour l'agence ArchiWebos : adaptation du design Figma, création de la page de présentation des travaux, développement de la page de connexion administrateur et implémentation d'une modal d'upload de médias.",
+    "link": "https://github.com/Spydfool/Portfolio-architecte-sophie-bluel-master-Florent"
+  },
+  {
+    "image": "image3.png",
+    "title": "Kasa",
+    "text": "Développeur front-end (freelance) : migration d'une application legacy vers une stack React + Node, implémentation des composants React (Gallery, Collapse), gestion des routes React Router et respect des maquettes Figma responsives. Réalisation de tests unitaires pour composants avec et sans état (objectif ≥80% coverage).",
+    "link": "https://github.com/Spydfool/TesteurLogiciel_appli_location_immobiliere_React-main-FlorentLeBihan"
+  }
 ]
